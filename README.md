@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richard-younes&show_icons=true&locale=en" alt="richard-younes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richard-younes&" alt="richard-younes" style="background-color: black" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richard-younes&" alt="richard-younes" /></p>
